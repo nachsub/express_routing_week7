@@ -1,0 +1,19 @@
+{
+  "name": "express_routing_week7",
+  "version": "1.0.0",
+  "description": "week 7 homework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nachsub/express_routing_week7.git"
+  },
+  "author": "Nachiket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nachsub/express_routing_week7/issues"
+  },
+  "homepage": "https://github.com/nachsub/express_routing_week7#readme"
+}
